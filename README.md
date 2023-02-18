@@ -1,20 +1,3 @@
-<h1 align="center">MaxPhisher</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/MaxPhisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/MaxPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/MaxPhisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/KasRoudra/MaxPhisher.svg" width="140" height="28">
-<br>
-<br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
 
 
 ### [√] Description :
@@ -49,7 +32,7 @@
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/MaxPhisher.py && python3 maxphisher.py
+wget https://raw.githubusercontent.com/aashishsoni145/MaxPhisher/main/MaxPhisher.py && python3 maxphisher.py
 
 ```
 
@@ -60,8 +43,8 @@ wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/MaxPhisher.py &
 
 ### Docker
 
- - `sudo docker pull kasroudra/maxphisher`
- - `sudo docker run --rm -it kasroudra/maxphisher`
+ - `sudo docker pull aashishsoni145/maxphisher`
+ - `sudo docker run --rm -it aashishsoni145/maxphisher`
 
 
 ### Support
